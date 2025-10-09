@@ -1,7 +1,7 @@
 <h1 align="center">🧠 CSES Problem Set Solutions</h1>
 
 <p align="center">
-  <img src="Assets/Banner.png" width="50%" alt="TLE Eliminator Banner"/>
+  <img src="Assets/Banner.png" width="80%" alt="TLE Eliminator Banner"/>
 </p>
 
 
