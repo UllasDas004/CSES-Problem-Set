@@ -1,10 +1,9 @@
-# 🧠 TLE Eliminator’s CP31 Sheet Solutions
+<h1 align="center">🧠 CSES Problem Set Solutions</h1>
 
 <p align="center">
   <img src="Assets/Banner.png" width="50%" alt="TLE Eliminator Banner"/>
 </p>
 
-<h1 align="center">🧠 CSES Problem Set Solutions</h1>
 
 <p align="center">
   <b>My journey solving the <a href="https://cses.fi/problemset/">CSES Problem Set</a> in C++ 🚀</b><br>
