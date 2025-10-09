@@ -20,6 +20,37 @@
 
 ---
 
+
+## 🚀 My Progress
+
+| Category | Solved ✅ | Total 📄 | Completion 📈 |
+|-----------|-----------|-----------|----------------|
+| 01 Introductory Problems | `0/24` | 24 | `0%` |
+| 02 Searching And Sorting | `0/35` | 35 | `0%` |
+| 03 Dynamic Programming | `0/23` | 23 | `0%` |
+| 04 Graph Algorithms | `0/36` | 36 | `0%` |
+| 05 Range Queries | `0/25` | 25 | `0%` |
+| 06 Tree Algorithms | `0/16` | 16 | `0%` |
+| 07 Mathematics | `0/37` | 37 | `0%` |
+| 08 String Algorithms | `0/21` | 21 | `0%` |
+| 09 Geometry | `0/16` | 16 | `0%` |
+| 10 Advanced Techniques | `0/25` | 25 | `0%` |
+| 11 Sliding Window Problems | `0/11` | 11 | `0%` |
+| 12 Interactive Problems | `0/6` | 6 | `0%` |
+| 13 Bitwise Operations | `0/11` | 11 | `0%` |
+| 14 Construction Problems | `0/8` | 8 | `0%` |
+| 15 Advanced Graph Problems | `0/28` | 28 | `0%` |
+| 16 Counting Problems | `0/18` | 18 | `0%` |
+| 17 Additional Problems I | `0/30` | 30 | `0%` |
+| 18 Additional Problems II | `0/30` | 30 | `0%` |
+
+📊 **Overall Progress: 0 / 400**
+
+`[........................................] 0.0%`
+
+> This section is auto-updated using `update_readme.py`
+
+
 ## 🏷️ About
 
 This repository contains my **C++ solutions** to the [CSES Problem Set](https://cses.fi/problemset/).  
