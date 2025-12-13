@@ -26,7 +26,7 @@
 | Category | Solved ✅ | Total 📄 | Completion 📈 |
 |-----------|-----------|-----------|----------------|
 | 01 Introductory Problems | `6/24` | 24 | `25%` |
-| 02 Sorting And Searching | `1/35` | 35 | `2%` |
+| 02 Sorting And Searching | `2/35` | 35 | `5%` |
 | 03 Dynamic Programming | `0/23` | 23 | `0%` |
 | 04 Graph Algorithms | `0/36` | 36 | `0%` |
 | 05 Range Queries | `0/25` | 25 | `0%` |
@@ -44,9 +44,9 @@
 | 17 Additional Problems I | `0/30` | 30 | `0%` |
 | 18 Additional Problems II | `0/30` | 30 | `0%` |
 
-📊 **Overall Progress: 7 / 400**
+📊 **Overall Progress: 8 / 400**
 
-`[█.......................................] 1.8%`
+`[█.......................................] 2.0%`
 
 > This section is auto-updated using `update_readme.py`
 
