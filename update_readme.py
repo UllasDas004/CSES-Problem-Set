@@ -4,7 +4,7 @@ import re
 # --- CATEGORY MAPPING: folder name → total problems ---
 CATEGORIES = {
     "01 Introductory Problems": 24,
-    "02 Searching And Sorting": 35,
+    "02 Sorting And Searching": 35,
     "03 Dynamic Programming": 23,
     "04 Graph Algorithms": 36,
     "05 Range Queries": 25,
